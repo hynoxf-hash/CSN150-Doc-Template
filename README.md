@@ -20,8 +20,13 @@ Planning to follow the Last Minute Engineers ESP32 Arduino IDE tutorial to insta
 
 Documentation will be updated once the ESP32 is connected and tested successfully.
 
-UPDATE 
+
+
+
+
 _______________________________________________________________________________________________________________________________
+UPDATE 
+
 
 Summary:
 Successfully uploaded and tested the ESP32 Blink sketch. The onboard LED blinked as expected after resolving an upload issue.
